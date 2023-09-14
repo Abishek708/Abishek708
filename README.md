@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abishek708
-- 👀 I’m interested in Python Data science 
+- 👀 I’m interested in Python  
 - 🌱 I’m currently learning Python programming
-- 💞️ I’m looking to collaborate on Data's
+- 💞️ I’m looking to collaborate on Data science
 - 📫 How to reach me abisheks708@gmail.com
 
 <!---
