@@ -1,4 +1,4 @@
--[![trophy](https://github-profile-trophy.vercel.app/?username=Abishek708)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abishek708)
 - 👋 Hi, I’m @Abishek708
 - 👀 I’m interested in Python  
 - 🌱 I’m currently learning Python programming
